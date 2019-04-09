@@ -1,0 +1,9 @@
+2019/03/17 11:58:22.056 [D]  send masg test: msg: dsfhaj,topic: nginx_log
+
+2019/03/17 11:58:22.056 [D]  send masg test: msg: kjdsfhashd,topic: nginx_log
+
+2019/03/17 13:09:04.684 [D]  init kafka success
+2019/03/17 13:11:48.129 [D]  send succ,pid: 0,offset: 14,topic: nginx_log
+2019/03/17 13:11:48.142 [D]  send succ,pid: 0,offset: 15,topic: nginx_log
+2019/03/17 13:11:48.155 [D]  send succ,pid: 0,offset: 16,topic: nginx_log
+2019/03/17 13:11:48.174 [D]  send succ,pid: 0,offset: 17,topic: nginx_log

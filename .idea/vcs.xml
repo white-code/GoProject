@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/darwin_amd64/github.com/beego/goyaml2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/darwin_amd64/github.com/beego/x2j" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/darwin_amd64/github.com/wendal/errors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/DataDog/zstd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/Shopify/sarama" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/Shopify/toxiproxy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/astaxie/beego" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/beego/goyaml2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/beego/x2j" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/coreos/etcd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/davecgh/go-spew" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/eapache/go-resiliency" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/eapache/go-xerial-snappy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/eapache/queue" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/garyburd/redigo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/golang/snappy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/hpcloud/tail" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/pierrec/lz4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/rcrowley/go-metrics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/wendal/errors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/xdg/scram" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/xdg/stringprep" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/go.etcd.io/etcd" vcs="Git" />
+  </component>
+</project>
