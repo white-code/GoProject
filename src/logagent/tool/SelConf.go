@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	EtcdKey = "./logagent/config/127.0.0.1"
+	EtcdKey = "/logagent/config/192.168.199.162"
 )
 
 //type LogConf struct {
